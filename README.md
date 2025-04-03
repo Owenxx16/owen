@@ -2,6 +2,12 @@
 
 <div align="center">
   
+<p>Working hard and always keeping learning and improving new knowledge</p>
+
+</div>
+
+<div align="center">
+  
 # CONTACT
 
 </div>
